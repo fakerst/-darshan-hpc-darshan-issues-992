@@ -1,1 +1,1 @@
-# /darshan-hpc/darshan/issues/992
+# darshan-hpc/darshan/issues/992
