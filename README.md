@@ -1,2 +1,1 @@
-# darshan-script
-Some scripts for darshan log analysis
+# /darshan-hpc/darshan/issues/992
